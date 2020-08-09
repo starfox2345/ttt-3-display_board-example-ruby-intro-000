@@ -5,5 +5,5 @@
    puts "   |   |   "
    puts "-----------"
    puts "   |   |   "
-   puts "a 3x3 tic tac toe board"
+   "a 3x3 tic tac toe board"
  end
